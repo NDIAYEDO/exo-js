@@ -1,0 +1,32 @@
+#carre {
+    height: 100px;
+    width: 100px;
+    background:#000;
+
+
+    }
+   
+    #cercle {
+        width: 100px;
+        height: 100px;
+        border-radius: 50px;
+        background: #000;
+    }
+    
+    #rond {
+       
+
+
+
+        border-radius:50%;
+        width:100px;
+        height:100px;
+        border:5px solid #679403; 
+    }
+    
+      #egg {
+        width: 80px;
+        height: 100px;
+        background-color: #000;
+        border-radius: 50% / 60% 60% 40% 40%;
+      }
